@@ -23,4 +23,4 @@ Projeto de temporizador inspirado no metodo Pomodooro para aula de manipulação
 ## Link do projeto Vercel
 [Pomodoro](https://projeto-pomodoro-alura-oracle.vercel.app/)
 ## Link do portifólio GitHub
-[Pomodoro](https://projeto-pomodoro-alura-oracle.vercel.app/)
+[Pomodoro](https://github.com/HelyomarLins/Projeto-Pomodoro-Alura-Oracle)
