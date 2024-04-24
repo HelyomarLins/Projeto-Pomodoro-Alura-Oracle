@@ -20,5 +20,7 @@ Projeto de temporizador inspirado no metodo Pomodooro para aula de manipulação
   <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma-logo"/>
 </p>
 
-## Link do projeto
-[Portfólio](https://helyomarlins.github.io/ChallengeAlura-Portifolio-HelyomarLins/)
+## Link do projeto Vercel
+[Pomodoro](https://projeto-pomodoro-alura-oracle.vercel.app/)
+## Link do portifólio GitHub
+[Pomodoro](https://projeto-pomodoro-alura-oracle.vercel.app/)
